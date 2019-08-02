@@ -1,11 +1,11 @@
 ---
 title: "Statistical Inference Project Part 1"
-author: "Michael Galarnyk"
-date: "May 27, 2017"
+author: "amira mohamed "
+date: "aug 2, 2019"
 output: html_document
 ---
 
-Github repo for the Course: [Statistical Inference](https://github.com/mGalarnyk/datasciencecoursera/tree/master/6_%20Statistical_Inference)
+Github repo for the Course: [Statistical Inference](https://github.com/amira-mohamed/6_-Statistical_Inference-project/tree/master)
 </br>
 Github repo for Rest of Specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
 
